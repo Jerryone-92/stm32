@@ -7,9 +7,9 @@
 
 1.  **硬件器件与电路实物图**
 
-![image-01.jpg](images/image-08.jpg)
+![image-08.jpg](images/image-08.jpg)
 
-![image-02.jpg](images/image-09.jpg)
+![image-09.jpg](images/image-09.jpg)
 
 
 **三、软件整体架构（FreeRTOS 多任务）**
